@@ -19,8 +19,8 @@ Pomocí HTML byl vytvořen základní Layout stránek a tomu byl dán vzhled za 
 ## MYSql
 
 Databáze, která slouží jako prostor pro ukládání a k pozdějšímu volání dat na hlavní stránku byla vytvořena za použití MySql. Databáze komunikuje s HTML stránkou za pomocí PHP kódu.
-![image](https://user-images.githubusercontent.com/74651859/163685380-93b1e02c-bb2c-42ee-b856-cc3e68525a55.png)
-![image](https://user-images.githubusercontent.com/74651859/163685400-7a1ee1b7-fca8-4bfe-a9aa-c7c340e0079e.png)
+- ![image](https://user-images.githubusercontent.com/74651859/163685380-93b1e02c-bb2c-42ee-b856-cc3e68525a55.png)
+- ![image](https://user-images.githubusercontent.com/74651859/163685400-7a1ee1b7-fca8-4bfe-a9aa-c7c340e0079e.png)
 
 ## PHP
 PHP má za úkol obstarat samotnou komunikaci databáze se stránkou. Mezi hlavní funkce patří připojování do databáze, přidávání spojů a času do již zmíněné databáze, a reset celého systému. Jeho dalším úkolem je updatovat data do CSV souboru které pak míří do databáze.
