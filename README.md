@@ -4,7 +4,7 @@
 - Zařízení hostingu – Černý a Rutte
 
 Tento program má za úkol uložit do databáze obdržená data odpovídající zadaným pravidlům a následně je zobrazit chronologicky pod sebe na hlavní stránku. Při tvorbě byli použity technologie HTML, SCSS, CSS, MySql, PHP a JavaScript. Webová stránka běží na URL adrese: http://evidencedopravy.xf.cz/
-![image](https://user-images.githubusercontent.com/74651859/163685290-51364d81-439d-4631-9078-c89209d1a3a1.png)
+- ![image](https://user-images.githubusercontent.com/74651859/163685290-51364d81-439d-4631-9078-c89209d1a3a1.png)
 
 
 
