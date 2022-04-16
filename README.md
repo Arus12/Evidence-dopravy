@@ -16,3 +16,8 @@ Pomocí HTML byl vytvořen základní Layout stránek a tomu byl dán vzhled za 
 ![HTML screen](https://user-images.githubusercontent.com/74651859/163685318-30886eb3-2be4-4db2-ac1e-75486588b344.png)
 ![SCSS](https://user-images.githubusercontent.com/74651859/163685322-6d02c4c1-eef6-48e8-9f47-e3447bd2d275.png)
 
+## MYSql
+
+Databáze, která slouží jako prostor pro ukládání a k pozdějšímu volání dat na hlavní stránku byla vytvořena za použití MySql. Databáze komunikuje s HTML stránkou za pomocí PHP kódu.
+![image](https://user-images.githubusercontent.com/74651859/163685380-93b1e02c-bb2c-42ee-b856-cc3e68525a55.png)
+![image](https://user-images.githubusercontent.com/74651859/163685400-7a1ee1b7-fca8-4bfe-a9aa-c7c340e0079e.png)
