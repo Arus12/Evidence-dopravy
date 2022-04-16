@@ -4,6 +4,8 @@
 - Zařízení hostingu – Černý a Rutte
 
 Tento program má za úkol uložit do databáze obdržená data odpovídající zadaným pravidlům a následně je zobrazit chronologicky pod sebe na hlavní stránku. Při tvorbě byli použity technologie HTML, SCSS, CSS, MySql, PHP a JavaScript.
+![HTML screen](https://user-images.githubusercontent.com/74651859/163685247-f24c8748-5d69-4d34-871d-58966692b2ff.png)
+
 
 ## HTML a CSS
 
