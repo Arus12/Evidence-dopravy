@@ -67,8 +67,10 @@ class create_csv
             fclose($f);
         } else {
             file_put_contents("csvs/data.csv", null);
-            $f = fopen("csvs/data.csv", 'w');
-            fputcsv($f, $csv);
+            foreach ($csv as $info) {
+                fputcsv($f, $info, ";");
+            }
+            fclose($f);
         }
     }
 }
