@@ -55,8 +55,7 @@ function showTable() {
 
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
-            console.log(xhttp.responseText.slice(293));
-            data = JSON.parse(xhttp.responseText.slice(293));
+            data = JSON.parse(xhttp.responseText.slice(293)); // slice pouze z důvodu reklamy na stránce
             for (let spoj of data) {
                 let row_2 = document.createElement('tr');
                 let row_2_data_1 = document.createElement('td');
